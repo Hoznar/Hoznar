@@ -1,19 +1,20 @@
-## Hi there 👋
+# Jan Rádl — Začínající vývojář
 
-## 🌐 Portfolio
+Zaměřuji se na vývoj softwaru a zajímám se především o webovky, desktopové aplikace včetně her.
 
-[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-ff5c7a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hoznar.github.io/)
-<!--
-**Hoznar/Hoznar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aktuálně pracuji na
+**Skype Conversation Reader** — osobní projekt zaměřený na zobrazování zastaralých Skype konverzací.
 
-Here are some ideas to get you started:
+### Oblíbené technologie
+`.NET` · `C#` · `Unity` · `HTML` · `CSS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aktuálně se učím
+`JavaScript` · `WPF`
+
+---
+
+## Portfolio
+
+Vše potřebné o mně, mých projektech a zkušenostech najdeš na mém portfoliu.
+
+[![Portfolio](https://img.shields.io/badge/→_NAVŠTÍVIT_PORTFOLIO-ff5c7a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hoznar.github.io/)
