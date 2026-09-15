@@ -1,6 +1,6 @@
 # Jan Rádl — Začínající vývojář
 
-Zaměřuji se na vývoj softwaru a zajímám se především o webovky, desktopové aplikace včetně her.
+Zaměřuji se na vývoj softwaru a zajímám se především o vývoj webovek, desktopových aplikací a her.
 
 ### Aktuálně pracuji na
 **Skype Conversation Reader** — osobní projekt zaměřený na zobrazování zastaralých Skype konverzací.
@@ -17,4 +17,4 @@ Zaměřuji se na vývoj softwaru a zajímám se především o webovky, desktopo
 
 Vše potřebné o mně, mých projektech a zkušenostech najdeš na mém portfoliu.
 
-[![Portfolio](https://img.shields.io/badge/→_NAVŠTÍVIT_PORTFOLIO-ff5c7a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hoznar.github.io/)
+[![Portfolio](https://img.shields.io/badge/NAVŠTÍVIT_PORTFOLIO-ff5c7a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hoznar.github.io/)
