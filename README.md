@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-ff5c7a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hoznar.github.io/)
 <!--
 **Hoznar/Hoznar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
